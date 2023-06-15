@@ -1,0 +1,98 @@
+{
+  "guias": [
+    {
+      "numeroGuia": "1000188286",
+      "remitente": {
+        "id": 127215,
+        "nombre": "PUBLICO GENERAL",
+        "calle": "CALLE GENERICA NumExt.1",
+        "colonia": "NOMBRE DE DIOS",
+        "estado": "CHIHUAHUA",
+        "municipio": "CHIHUAHUA",
+        "codigopostal": "31150"
+      },
+      "consignatario": {
+        "id": 128658,
+        "nombre": "PUBLICO GENERAL",
+        "calle": "CALLE GENERICA NumExt.1",
+        "colonia": "SECTOR NORTE",
+        "estado": "CHIHUAHUA",
+        "municipio": "DELICIAS",
+        "codigopostal": "33000"
+      },
+      "tipoEnvio": "PAQUETE",
+      "tipoEntrega": "DOMICILIO",
+      "movimientos": [
+        {
+          "fechaMovimiento": "2021/10/08 10:33",
+          "numeroguia": "1000188286",
+          "situacion": "ORIGEN",
+          "localizacion": "CHIHUAHUA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "TRANSITO",
+          "localizacion": "CHIHUAHUA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "DESTINO",
+          "localizacion": "CHIHUAHUA INDUSTRIAS"
+        }
+      ],
+      "frm": null,
+      "guiaRetornoEv": null,
+      "personaRecibe": "",
+      "descripcionError": ""
+    },
+    {
+      "numeroGuia": "10001882887897",
+      "remitente": {
+        "id": 127215,
+        "nombre": "PUBLICO GENERAL",
+        "calle": "CALLE GENERICA NumExt.1",
+        "colonia": "NOMBRE DE DIOS",
+        "estado": "COLIMA",
+        "municipio": "COLIMA",
+        "codigopostal": "31150"
+      },
+      "consignatario": {
+        "id": 128658,
+        "nombre": "PUBLICO GENERAL",
+        "calle": "CALLE GENERICA NumExt.1",
+        "colonia": "SECTOR NORTE",
+        "estado": "COLIMA",
+        "municipio": "DELICIAS",
+        "codigopostal": "33000"
+      },
+      "tipoEnvio": "PAQUETE",
+      "tipoEntrega": "DOMICILIO",
+      "movimientos": [
+        {
+          "fechaMovimiento": "2021/10/08 10:33",
+          "numeroguia": "1000188286",
+          "situacion": "ORIGEN",
+          "localizacion": "COLIMA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "TRANSITO",
+          "localizacion": "COLIMA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "DESTINO",
+          "localizacion": "COLIMA INDUSTRIAS"
+        }
+      ],
+      "frm": null,
+      "guiaRetornoEv": null,
+      "personaRecibe": "",
+      "descripcionError": ""
+    }
+  ]
+}
